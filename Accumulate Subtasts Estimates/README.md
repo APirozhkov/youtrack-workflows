@@ -1,4 +1,4 @@
-Accumulate Subtasks Estimations2
+Accumulate Subtasks Estimations
 ===============================
 This workflow sums subtasks estimations and save it to parent issue. Supports multilevel parent-subtasks trees.
 
